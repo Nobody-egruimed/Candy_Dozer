@@ -1,2 +1,1 @@
-# Candy_Dozer
-Enter your text here...
+# CandyDozer
