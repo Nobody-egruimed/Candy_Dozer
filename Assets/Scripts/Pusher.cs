@@ -17,7 +17,6 @@ public class Pusher : MonoBehaviour
     void Update()
     {
         float z = pushPower * Mathf.Sin(Time.time);
-        Debug.Log(z);
         pusher.transform.localPosition = new Vector3(0, 0, z) + defaultPosition;
     }
 }
